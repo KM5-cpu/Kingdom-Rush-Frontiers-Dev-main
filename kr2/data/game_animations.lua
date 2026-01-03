@@ -7384,6 +7384,11 @@ local a = {
 		to = 50,
 		from = 1
 	},
+	fx_arrow_silver_mark_hit = {
+		prefix = "archer_silver_mark_explotion",
+		to = 9,
+		from = 1
+	},
 }
 local o = {}
 
